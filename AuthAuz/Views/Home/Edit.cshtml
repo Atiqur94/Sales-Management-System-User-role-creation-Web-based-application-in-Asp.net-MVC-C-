@@ -1,0 +1,55 @@
+﻿@model AuthAuz.Models.ViewModels.VmProduct
+@{
+
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var OrderDate = Model.OrderDate == null ? "" : Convert.ToDateTime(Model.OrderDate).ToString("yyyy-MM-dd");
+}
+
+<h3>Edit Product</h3>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@*@using (Html.BeginForm())*@
+@using (Ajax.BeginForm("Edit", "Home", new AjaxOptions() { HttpMethod = "POST" }, new { enctype = "multipart/form-data" }))
+
+{
+    @Html.AntiForgeryToken()
+    <div class="row">
+        <b>Category:</b>
+        <input list="Category" name="CategoryName" id="CategoryName" required value="@Model.CategoryName">
+        <datalist id="Category">
+            @foreach (var item in Model.CategoryList)
+            {
+                <option value="@item.CategoryName" />
+            }
+        </datalist>
+    </div>
+
+    <div id="ProData" class="Table">
+        <div id="RowData" class="Row">
+            <input type="hidden" name="ProductId" value="@Model.ProductId" />
+            <input type="text" name="ProductName" placeholder="ProductName" value="@Model.ProductName" />
+            <input type="text" name="Quantity" placeholder="Quantity" value="@Model.Quantity" />
+            <input type="text" name="Price" placeholder="Price" value="@Model.Price" />
+            <input type="text" name="OrderDate" class="datepicker" placeholder="OrderDate" value="@OrderDate" />
+            <input type="file" name="imgFile" placeholder="imgFile" />
+            <img src="@Model.ImagePath" style="width:150px" />
+        </div>
+    </div>
+
+    <div class="row">
+        <input type="submit" value="Edit" class="btn">
+    </div>
+}
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".datepicker").datepicker({
+            changeMonth: true, changeYear: true
+        });
+    })
+</script>
+

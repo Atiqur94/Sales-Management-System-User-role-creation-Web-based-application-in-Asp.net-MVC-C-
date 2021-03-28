@@ -1,0 +1,24 @@
+﻿@model IEnumerable<AuthAuz.Models.ViewModelUser>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>User Wise Role List</h3>
+<table class="table">
+    <tr>
+        <th>User Name</th>
+        <th>Role Name</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.UserName)</td>
+            <td>@Html.DisplayFor(modelItem => item.RoleName)</td>
+            <td>@Html.ActionLink("Edit", "Edit", new { id = item.RoleID }) | @Html.ActionLink("Delete", "Delete", new { id = item.RoleID }) @*| @Html.ActionLink("Details", "Details", new { id = item.RoleID })*@</td>
+        </tr>
+    }
+</table>
+
+
+

@@ -1,0 +1,58 @@
+﻿@model AuthAuz.Models.tblUsers
+
+@{
+
+    ViewBag.Title = "Login";
+}
+
+<h2>User Login</h2>
+@helper Paragraph()
+{
+    <b style="color:green">
+        Login as Admin to manage role.
+    </b>
+}
+
+@Paragraph()
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="row">
+        <form class="col s12">
+            <hr />
+            @Html.ValidationSummary(true, "")
+            <div class="row">
+                <div class="input-field col s2">
+                    @Html.LabelFor(model => model.UserName)
+                </div>
+                <div class="input-field col s10">
+                    @Html.EditorFor(model => model.UserName)
+                    @Html.ValidationMessageFor(model => model.UserName, "")
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="input-field col s2">
+                    @Html.LabelFor(model => model.UserPassword)
+                </div>
+                <div class="input-field col s10">
+                    @Html.EditorFor(model => model.UserPassword)
+                    @Html.ValidationMessageFor(model => model.UserPassword, "")
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s10">
+                    <input type="submit" value="Login" class="btn-small green" />
+                </div>
+            </div>
+        </form>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Go to Sign up", "Register")
+</div>
+
+

@@ -1,0 +1,56 @@
+﻿@model AuthAuz.Models.tblUsers
+
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register User</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <hr />
+    @Html.ValidationSummary(true, "")
+    <div class="row">
+        <form class="col s12">
+            <div class="row">
+                <div class="input-field col s2">
+                    @Html.LabelFor(model => model.UserName)
+                </div>
+                <div class="input-field col s10">
+                    @Html.EditorFor(model => model.UserName)
+                    @Html.ValidationMessageFor(model => model.UserName, "")
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s2">
+                    @Html.LabelFor(model => model.UserPassword)
+                </div>
+                <div class="input-field col s10">
+                    @Html.EditorFor(model => model.UserPassword)
+                    @Html.ValidationMessageFor(model => model.UserPassword, "")
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s2">
+                    @Html.LabelFor(model => model.FullName)
+                </div>
+                <div class="input-field col s10">
+                    @Html.EditorFor(model => model.FullName)
+                    @Html.ValidationMessageFor(model => model.FullName, "")
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s10">
+                    <input type="submit" value="Create" class="btn-small green" />
+                </div>
+            </div>
+        </form>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Go to Login", "Login")
+</div>
+
+

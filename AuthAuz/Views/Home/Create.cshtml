@@ -1,0 +1,72 @@
+﻿@model AuthAuz.Models.ViewModels.VmProductCategory
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h3>Create Products</h3>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div><br /><br />
+@*@using (Html.BeginForm("Create", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))*@
+@using (Ajax.BeginForm("Create", "Home", new AjaxOptions() { HttpMethod = "POST" }, new { enctype = "multipart/form-data" }))
+
+{
+    @Html.AntiForgeryToken()
+
+<div class="row">
+        <b>Category:</b><br />
+        <input list="Category" name="CategoryName" id="CategoryName" required>
+        <datalist id="Category">
+            @foreach (var item in Model.CategoryList)
+            {
+                <option value="@item.CategoryName" />
+            }
+        </datalist>
+    </div>
+
+    <div id="ProData" class="Table">
+        <div id="RowData" class="Row">
+            <div class="input-field col s2">
+                <input type="text" name="ProductName" placeholder="ProductName" />
+            </div>
+            <div class="input-field col s2">
+                <input type="text" name="Quantity" placeholder="Quantity" />
+            </div>
+            <div class="input-field col s2">
+                <input type="text" name="Price" placeholder="Price" />
+            </div>
+            <div class="input-field col s2">
+                <input type="text" name="OrderDate" class="datepicker" placeholder="OrderDate" />
+            </div>
+            <input type="file" name="imgFile" placeholder="imgFile" />
+            <a id="addRow" href="#" class="btn"><i>+</i></a><br />
+        </div>
+    </div>
+
+
+    <div class="row">
+        <input type="submit" value="Create" class="btn-small green">
+    </div>
+
+
+    }
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    
+<script>
+        $('#addRow').on('click', function () {
+            $('#ProData').append('<div id="RowData" class="Row"><input type="text" name="ProductName" placeholder="ProductName" /><input type="text" name="Quantity" placeholder="Quantity" /><input type="text" name="Price" placeholder="Price" /><input type="date" name="OrderDate" placeholder="OrderDate" /><input type="file" name="imgFile" placeholder="imgFile" /><a id="deleteRow" href="#" class="btn btn-xs btn-danger"><i>-</i></a></div>');
+            $('#ProData').addClass();
+            return false; 
+        });
+        $('#ProData').on('click', '#deleteRow', function () {
+            $(this).parent().remove();
+            return false; 
+        });
+        $(document).ready(function () {
+            $(".datepicker").datepicker({
+                changeMonth: true, changeYear: true
+            });
+        })
+</script>
+
+

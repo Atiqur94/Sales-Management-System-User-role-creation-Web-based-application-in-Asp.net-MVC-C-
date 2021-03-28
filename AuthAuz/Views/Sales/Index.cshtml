@@ -1,0 +1,50 @@
+﻿@model IEnumerable<AuthAuz.Models.Customer>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Mobile)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SaleDate)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SaleDate)
+            </td>
+            <td>
+                <a href="/Sales/Edit?id=@item.CustomerID">Edit</a> |
+                <a href="/Sales/Delete?id=@item.CustomerID" onclick="return confirm('Are you sure to delete?')">Delete</a>
+            </td>
+
+        </tr>
+    }
+</table>
+
+

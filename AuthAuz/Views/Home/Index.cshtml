@@ -1,0 +1,99 @@
+﻿@model AuthAuz.Models.ViewModels.VmCategoryWiseProduct
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="input-field col s4">
+        <h4>Category</h4>
+        <p>
+            <a href="/Home/Create" class="btn-small purple white-text">Create New</a>
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    Category
+                </th>
+                <th>
+                    Avaiable Proudct
+                </th>
+                <th>Action</th>
+            </tr>
+
+            @foreach (var item in Model.CategoryList)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                    <td>
+                        <a href="/Home/Index?id=@item.CategoryId" class="btn-small">Details</a> |
+                        <a href="/Home/EditMultiple?id=@item.CategoryId" class="btn-small yellow black-text">Edit</a>
+                        <a href="/Home/DeleteMultiple?id=@item.CategoryId" class="btn-small red white-text" onclick="return confirm('Are you sure to delete this category with products?')">Delete</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+    <div class="input-field col s8">
+        <h4>Prdoucts of @Model.CategoryName</h4>
+        <p>
+            <a href="/Home/Create" class="btn btn-small purple white-text">Create New</a>
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    Category
+                </th>
+                <th>
+                    Product
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Order Date
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th>
+                    ImagePath
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model.ProductList)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OrderDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Quantity)
+                    </td>
+                    <td>
+                        <img src="@item.ImagePath" style="height:150px" />
+                    </td>
+                    <td>
+                        <a href="/Home/Edit?id=@item.ProductId" class="btn btn-small yellow black-text">Edit</a> |
+                        <a href="/Home/Delete?id=@item.ProductId" class="btn btn-small red darken-2 white-text" onclick="return confirm('Are you sure to delete this product?')">Delete</a>
+                    </td>
+
+                </tr>
+            }
+        </table>
+    </div>
+</div>

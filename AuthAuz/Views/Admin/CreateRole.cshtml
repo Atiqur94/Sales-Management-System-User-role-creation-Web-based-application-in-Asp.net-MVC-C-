@@ -1,0 +1,43 @@
+﻿@model AuthAuz.Models.tblRoles
+
+@{
+    ViewBag.Title = "CreateRole";
+}
+
+<h2>Create Role</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <hr />
+    @Html.ValidationSummary(true, "")
+    <div class="row">
+        <div class="input-field col s2">
+            @Html.LabelFor(model => model.RoleName)
+        </div>
+        <div class="input-field col s10">
+            @Html.EditorFor(model => model.RoleName)
+            @Html.ValidationMessageFor(model => model.RoleName, "")
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="input-field col s2">
+            @Html.LabelFor(model => model.UserID)
+        </div>
+        <div class="input-field col s10">
+            @Html.DropDownListFor(model => model.UserID, ViewBag.Users as SelectList, "Select User", new { @class = "dropdown-trigger btn" })
+            @Html.ValidationMessageFor(model => model.UserID, "")
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="input-field col s2">
+            <input type="submit" value="Create Role" class="btn" />
+        </div>
+    </div>
+}
+
+
+

@@ -1,0 +1,580 @@
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\AuthAuz.dll.config
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\AuthAuz.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\AuthAuz.pdb
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csc.exe
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csc.exe.config
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csc.rsp
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csi.exe
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csi.exe.config
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csi.rsp
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.AppContext.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Console.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.IO.Compression.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.AccessControl.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Claims.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Principal.Windows.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.ValueTuple.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\vbc.exe
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\vbc.exe.config
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\vbc.rsp
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Antlr3.Runtime.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\EntityFramework.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Newtonsoft.Json.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Helpers.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Mvc.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Optimization.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Razor.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\WebGrease.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\EntityFramework.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Helpers.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Mvc.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Optimization.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Razor.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Newtonsoft.Json.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Antlr3.Runtime.pdb
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csprojAssemblyReference.cache
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CoreCompileInputs.cache
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CopyComplete
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\obj\Debug\AuthAuz.dll
+D:\C#\Exam-8, Evidence\AuthAuz\AuthAuz\obj\Debug\AuthAuz.pdb
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\AuthAuz.dll.config
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\AuthAuz.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\AuthAuz.pdb
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csc.exe
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csc.exe.config
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csc.rsp
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csi.exe
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csi.exe.config
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\csi.rsp
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Managed.Core.targets
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.AppContext.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Collections.Immutable.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Console.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.IO.Compression.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Reflection.Metadata.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.AccessControl.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Claims.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Security.Principal.Windows.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.ValueTuple.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XmlDocument.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\vbc.exe
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\vbc.exe.config
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\vbc.rsp
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe.config
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Antlr3.Runtime.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\EntityFramework.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Microsoft.Web.Infrastructure.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Newtonsoft.Json.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Helpers.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Mvc.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Optimization.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Razor.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\WebGrease.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\EntityFramework.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Helpers.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Mvc.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Optimization.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.Razor.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Newtonsoft.Json.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Antlr3.Runtime.pdb
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csprojAssemblyReference.cache
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CoreCompileInputs.cache
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CopyComplete
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\obj\Debug\AuthAuz.dll
+F:\AQ C#\Exam-8, Evidence\AuthAuz\AuthAuz\obj\Debug\AuthAuz.pdb
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\AuthAuz.dll.config
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\AuthAuz.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\AuthAuz.pdb
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\csc.exe
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\csc.exe.config
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\csc.rsp
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\csi.exe
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\csi.exe.config
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\csi.rsp
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Managed.Core.targets
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.AppContext.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Collections.Immutable.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Console.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.IO.Compression.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Reflection.Metadata.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Security.AccessControl.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Security.Claims.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Security.Principal.Windows.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.ValueTuple.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XmlDocument.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\vbc.exe
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\vbc.exe.config
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\vbc.rsp
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe.config
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\Antlr3.Runtime.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\EntityFramework.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\Microsoft.Web.Infrastructure.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\Newtonsoft.Json.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.Helpers.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.Mvc.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.Optimization.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.Razor.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.WebPages.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\WebGrease.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\EntityFramework.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.Helpers.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.Mvc.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.Optimization.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.Razor.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.WebPages.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\Newtonsoft.Json.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\Antlr3.Runtime.pdb
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csprojAssemblyReference.cache
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CoreCompileInputs.cache
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CopyComplete
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\obj\Debug\AuthAuz.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\obj\Debug\AuthAuz.pdb
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\AuthAuz.dll.config
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\AuthAuz.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\AuthAuz.pdb
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\csc.exe
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\csc.exe.config
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\csc.rsp
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\csi.exe
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\csi.exe.config
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\csi.rsp
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.AppContext.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Console.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.IO.Compression.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Security.AccessControl.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Security.Claims.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Security.Principal.Windows.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.ValueTuple.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\vbc.exe
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\vbc.exe.config
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\vbc.rsp
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\Antlr3.Runtime.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\EntityFramework.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\Newtonsoft.Json.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\PagedList.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\PagedList.Mvc.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.Helpers.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.Mvc.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.Optimization.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.Razor.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.WebPages.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\WebGrease.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\EntityFramework.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\PagedList.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\PagedList.Mvc.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.Helpers.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.Mvc.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.Optimization.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.Razor.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.WebPages.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\Newtonsoft.Json.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\Antlr3.Runtime.pdb
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CoreCompileInputs.cache
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CopyComplete
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\obj\Debug\AuthAuz.dll
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\obj\Debug\AuthAuz.pdb
+D:\C#\Exam-8, Evidence\New folder\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csprojAssemblyReference.cache
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\PagedList.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\PagedList.Mvc.dll
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\PagedList.xml
+F:\AQ C#\AQ C#\C# Project\MVC\AuthAuz\AuthAuz\bin\PagedList.Mvc.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\AuthAuz.dll.config
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\AuthAuz.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\AuthAuz.pdb
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csc.exe
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csc.exe.config
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csc.rsp
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csi.exe
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csi.exe.config
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csi.rsp
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.AppContext.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Console.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.Compression.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.AccessControl.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Claims.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Principal.Windows.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.ValueTuple.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\vbc.exe
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\vbc.exe.config
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\vbc.rsp
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Antlr3.Runtime.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Newtonsoft.Json.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.Mvc.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Helpers.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Mvc.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Optimization.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Razor.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\WebGrease.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.Mvc.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Helpers.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Mvc.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Optimization.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Razor.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Newtonsoft.Json.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Antlr3.Runtime.pdb
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csprojAssemblyReference.cache
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CoreCompileInputs.cache
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CopyComplete
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.dll
+D:\C#\Exam-8, Evidence\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.pdb
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\AuthAuz.dll.config
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\AuthAuz.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\AuthAuz.pdb
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csc.exe
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csc.exe.config
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csc.rsp
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csi.exe
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csi.exe.config
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csi.rsp
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Managed.Core.targets
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.AppContext.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Collections.Immutable.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Console.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.Compression.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Reflection.Metadata.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.AccessControl.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Claims.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Principal.Windows.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.ValueTuple.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XmlDocument.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\vbc.exe
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\vbc.exe.config
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\vbc.rsp
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe.config
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Antlr3.Runtime.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Microsoft.Web.Infrastructure.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Newtonsoft.Json.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.Mvc.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Helpers.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Mvc.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Optimization.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Razor.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\WebGrease.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.Mvc.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Helpers.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Mvc.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Optimization.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Razor.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Newtonsoft.Json.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Antlr3.Runtime.pdb
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csprojAssemblyReference.cache
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CoreCompileInputs.cache
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CopyComplete
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.dll
+F:\AQ C#\AQ C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.pdb
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\AuthAuz.dll.config
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\AuthAuz.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\AuthAuz.pdb
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csc.exe
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csc.exe.config
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csc.rsp
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csi.exe
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csi.exe.config
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\csi.rsp
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.AppContext.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Console.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.Compression.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.IO.Pipes.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.AccessControl.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Claims.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Security.Principal.Windows.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.ValueTuple.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\vbc.exe
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\vbc.exe.config
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\vbc.rsp
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Antlr3.Runtime.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Newtonsoft.Json.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.Mvc.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Helpers.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Mvc.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Optimization.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Razor.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\WebGrease.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\EntityFramework.SqlServer.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\PagedList.Mvc.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Helpers.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Mvc.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Optimization.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.Razor.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Deployment.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\System.Web.WebPages.Razor.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Newtonsoft.Json.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Antlr3.Runtime.pdb
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csprojAssemblyReference.cache
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CoreCompileInputs.cache
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.csproj.CopyComplete
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.dll
+D:\C#\C# Project\MVC\1257678- Atiqur Rahman\Sales Management\AuthAuz\AuthAuz\obj\Debug\AuthAuz.pdb

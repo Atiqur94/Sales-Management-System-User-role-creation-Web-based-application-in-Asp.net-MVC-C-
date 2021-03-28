@@ -1,0 +1,70 @@
+﻿@model AuthAuz.Models.ViewModels.VmCategoryWiseProduct
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+<h2>Edit Product</h2>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@using (Html.BeginForm("EditMultiple", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+            <b>Category</b>
+            <select id="CategoryId" name="CategoryId" required class="dropdown-trigger btn">
+                @foreach (var item in Model.CategoryList)
+                {
+                    var Selected = item.CategoryId == Model.CategoryId ? "selected" : "";
+                    <option value="@item.CategoryId" @Selected>@item.CategoryName</option>
+                }
+            </select>
+            
+            <div id="ProData" class="Table">
+                <div id="RowData" class="Row">
+                    <input type="hidden" name="ProductId" />
+                    <input type="text" name="ProductName" placeholder="ProductName" />
+                    <input type="text" name="Quantity" placeholder="Quantity" />
+                    <input type="text" name="Price" placeholder="Price" />
+                    <input type="date" name="OrderDate" placeholder="OrderDate" />
+                    <input type="file" name="imgFile" placeholder="imgFile" />
+                    <a id="addRow" href="#" class="btn-floating btn-small waves-effect waves-light red"><i>+</i></a><hr />
+                </div>
+                @foreach (var item in Model.ProductList)
+                {
+                    var OrderDate = item.OrderDate == null ? "" : Convert.ToDateTime(item.OrderDate).ToString("yyyy-MM-dd");
+                    <div id="RowData" class="Row">
+                        <input type="hidden" name="ProductId" value="@item.ProductId" />
+                        <input type="text" name="ProductName" placeholder="ProductName" value="@item.ProductName" />
+                        <input type="text" name="Quantity" placeholder="Quantity" value="@item.Quantity" />
+                        <input type="text" name="Price" placeholder="Price" value="@item.Price" />
+                        <input type="date" name="OrderDate" placeholder="OrderDate" value="@OrderDate" />
+                        <input type="file" name="imgFile" placeholder="imgFile" />
+                        <a id="deleteRow" href="#" class="btn-small"><i>-</i></a>
+                        <img src="@item.ImagePath" style="width:150px" />
+                        <hr />
+                    </div>
+                }
+            </div>
+
+            <div class="Row">
+                <input type="submit" value="Edit" class="btn btn-small yellow black-text">
+            </div>
+
+}
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>
+
+    $('#addRow').on('click', function () {
+        $('#ProData').append('<div id="RowData" class="Row"><input type="text" name="ProductName" placeholder="ProductName" /><input type="text" name="Quantity" placeholder="Quantity" /><input type="text" name="Price" placeholder="Price" /><input type="date" name="OrderDate" placeholder="OrderDate" /><input type="file" name="imgFile" placeholder="imgFile" /><a id="deleteRow" href="#" class="btn btn-xs btn-danger"><i>-</i></a><hr /></div>');
+        $('#ProData').addClass();
+        return false; 
+    });
+    $('#ProData').on('click', '#deleteRow', function () {
+        $(this).parent().remove();
+        return false; 
+    });
+</script>
+
+

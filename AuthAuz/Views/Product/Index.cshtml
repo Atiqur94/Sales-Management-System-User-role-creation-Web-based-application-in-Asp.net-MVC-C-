@@ -1,0 +1,53 @@
+﻿@model PagedList.IPagedList<AuthAuz.Models.tblProduct>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>Add Product</h3><hr />
+@Html.ActionLink("Create New", "Create", "Product", htmlAttributes: new { @class = "btn-small green", @role = "button" })
+<h3>Product List</h3>
+
+@using (Html.BeginForm("Index", "Product", FormMethod.Get))
+{
+    <p>
+        <b>Find by name:</b> @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" class="btn-small light-green" />
+    </p>
+}
+<div>
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>
+                @Html.ActionLink("ProductName", "Index", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>Price</th>
+            <th>Order Date</th>
+            <th>Image</th>
+            <th>Edit</th>
+            <th>Delete</th>
+
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductId</td>
+                <td>@item.ProductName</td>
+                <td>@item.Price</td>
+                <td>@Convert.ToString(String.Format("{0:MM/dd/yyyy}", item.OrderDate))</td>
+                <td><img src="@Url.Content(item.ImageUrl)" height="70" width="65" /></td>
+                <td>@Html.ActionLink("Edit", "Edit", new { id = item.ProductId }, htmlAttributes: new { @class = "btn-small orange black-text", @role = "button" })</td>
+                <td>@Html.ActionLink("Delete", "Delete", "Product", new { id = item.ProductId }, htmlAttributes: new { @class = "btn-small red darken-2 white-text", @role = "button" })</td>
+            </tr>
+        }
+    </table>
+</div>
+
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+
+

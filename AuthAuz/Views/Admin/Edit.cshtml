@@ -1,0 +1,44 @@
+﻿@model AuthAuz.Models.tblRoles
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h3>Edit User</h3>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.ValidationSummary(true, "")
+    @Html.HiddenFor(model => model.ID)
+    <div class="row">
+        <div class="input-field col s2">
+            @Html.LabelFor(model => model.RoleName)
+        </div>
+        <div class="input-field col s10">
+            @Html.EditorFor(model => model.RoleName)
+            @Html.ValidationMessageFor(model => model.RoleName, "")
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col s2">
+            @Html.LabelFor(model => model.UserID)
+        </div>
+        <div class="input-field col s10">
+            @Html.DropDownListFor(model => model.UserID, ViewBag.Users as SelectList, "Select User", new { @class = "dropdown-trigger btn" })
+            @Html.ValidationMessageFor(model => model.UserID, "")
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col s2">
+            <input type="submit" value="Save" class="btn" />
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+

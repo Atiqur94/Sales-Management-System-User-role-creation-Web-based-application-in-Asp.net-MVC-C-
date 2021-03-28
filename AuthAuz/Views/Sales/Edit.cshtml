@@ -1,0 +1,98 @@
+﻿@model AuthAuz.Models.Customer
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var SaleDate = Model.SaleDate == null ? "" : Convert.ToDateTime(Model.SaleDate).ToString("yyyy-MM-dd");
+    var ProductList = (List<AuthAuz.Models.Product>)ViewBag.ProductList;
+}
+
+<h2>Edit</h2>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>CustomerVm</h4>
+        <input id="CustomerID" name="CustomerID" type="hidden" value="@Model.CustomerID">
+        <hr>
+        <div class="form-group">
+            <label class="control-label col-md-2" for="CustomerName">CustomerName</label>
+            <div class="col-md-10">
+                <input class="form-control text-box single-line" id="CustomerName" name="CustomerName" type="text" value="@Model.CustomerName">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="Mobile">Mobile</label>
+            <div class="col-md-10">
+                <input class="form-control text-box single-line" id="Mobile" name="Mobile" type="text" value="@Model.Mobile">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="Address">Address</label>
+            <div class="col-md-10">
+                <input class="form-control text-box single-line" id="Address" name="Address" type="text" value="@Model.Address">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="SaleDate">SaleDate</label>
+            <div class="col-md-10">
+                <input class="datepicker" id="SaleDate" name="SaleDate" type="text" value="@SaleDate">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div id="ProData" class="Table">
+                <div id="RowData" class="Row">
+                    <input type="text" name="ProductName" class="repeat" placeholder="ProductName" />
+                    <input type="text" name="Quantity" class="repeat" placeholder="Quantity" />
+                    <input type="text" name="Price" class="repeat" placeholder="Price" />
+                    <a id="addRow" href="#"><i>+</i></a>
+                </div>
+                @foreach (var item in ProductList)
+                {
+                    <div id="RowData" class="Row">
+                        <input type="text" name="ProductName" value="@item.ProductName" class="repeat" placeholder="ProductName" />
+                        <input type="text" name="Quantity" value="@item.Quantity" class="repeat" placeholder="Quantity" />
+                        <input type="text" name="Price" value="@item.Price" class="repeat" placeholder="Price" />
+                        <a id="deleteRow" href="#"><i>-</i></a>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default">
+            </div>
+        </div>
+    </div>
+}
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<script>
+
+    $('#addRow').on('click', function () {
+        $('#ProData').append('<div id="RowData" class="Row"><input type="text" name="ProductName" class="repeat" placeholder="ProductName" /><input type="text" name="Quantity" class="repeat" placeholder="Quantity" /><input type="text" name="Price" class="repeat" placeholder="Price" /><a id="deleteRow" href="#" ><i>-</i></a></div>');
+        $('#ProData').addClass();
+        return false; 
+    });
+
+    $('#ProData').on('click', '#deleteRow', function () {
+        $(this).parent().remove();
+        return false; 
+    });
+    $(document).ready(function () {
+        $('.datepicker').datepicker();
+    });
+</script>
+
+

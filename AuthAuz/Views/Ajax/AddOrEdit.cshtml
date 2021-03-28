@@ -1,0 +1,75 @@
+﻿@model AuthAuz.Models.ProductA
+
+@{
+    ViewBag.Title = "AddOrEdit";
+    Layout = null;
+}
+<h3>Input Form</h3><br />
+<link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
+
+@using (Html.BeginForm("AddOrEdit", "Ajax", FormMethod.Post, new { enctype = "multipart/form-data", onSubmit = "return jQueryAjaxPost(this);", data_restUrl = Url.Action("AddOrEdit", "Ajax", new { id = 0 }) }))
+{
+@Html.AntiForgeryToken()
+<div class="row">
+    <form class="col s12">
+        @Html.ValidationSummary(true)
+        @Html.HiddenFor(model => model.ProductID)
+        @Html.HiddenFor(model => model.ImagePath)
+        <div class="row">
+            <div class="input-field col s2">
+                @Html.LabelFor(model => model.ProductName)
+            </div>
+            <div class="input-field col s10">
+                @Html.EditorFor(model => model.ProductName)
+                @Html.ValidationMessageFor(model => model.ProductName,"")
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s2">
+                @Html.LabelFor(model => model.Price)
+            </div>
+            <div class="input-field col s10">
+                @Html.EditorFor(model => model.Price)
+                @Html.ValidationMessageFor(model => model.Price,"")
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s2">
+                @Html.LabelFor(model => model.OrderDate)
+            </div>
+            <div class="input-field col s10">
+                @Html.EditorFor(model => model.OrderDate, "{0:mm/dd/yyyy}", new { htmlAttributes = new { @class = "datepicker" } })
+                @Html.ValidationMessageFor(model => model.OrderDate,"")
+            </div>
+        </div>
+        <div class="row">
+            @Html.LabelFor(model => model.ImagePath)
+
+            <img src="@Url.Content(Model.ImagePath)" style="margin:10px" height="200" width="200" id="imagePreview" />
+            <input type="file" name="ImageUpload" accept="image/jpeg, image/png" onchange="ShowImagePreview(this,document.getElementById('imagePreview'))" />
+        </div>
+        <div class="row">
+            <input type="submit" value="Submit" class="btn green darken-2 white-text" />
+            @if (Model.ProductID != 0)
+                {
+            <a class="btn" onclick="refreshAddNewTab('@Url.Action("AddOrEdit","Ajax",new{id=0})',false)"><i class="fa fa-plus"></i> Add New</a>
+                }
+        </div>
+    </form>
+</div>
+}
+<script src="~/Scripts/jquery-1.12.1.js"></script>
+<script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $("#OrderDate").datepicker({
+            changeMonth: true, changeYear: true
+        });
+    })
+</script>
+
+
+
+
+

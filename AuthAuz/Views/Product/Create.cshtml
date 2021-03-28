@@ -1,0 +1,83 @@
+﻿@model AuthAuz.Models.ViewModels.ProductCreateViewModel
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
+<h3>Add New Product</h3>
+@using (Html.BeginForm("AddOrEdit", "Product", FormMethod.Post, new { @enctype = "multipart/form-data", @id = "SubmitForm" }))
+{
+    @Html.AntiForgeryToken();
+    <div class="row">
+        <form class="col s12">
+            <div class="row">
+                <div class="input-field col s2">
+                    @Html.LabelFor(t => t.ProductName)
+                </div>
+                <div class="input-field col s10">
+                    @Html.EditorFor(t => t.ProductName)
+                    @Html.ValidationMessageFor(p => p.ProductName, "")
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s2">
+                    @Html.LabelFor(t => t.Price)
+                </div>
+                <div class="input-field col s10">
+                    @Html.EditorFor(t => t.Price)
+                    @Html.ValidationMessageFor(p => p.Price, "")
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s2">
+                    @Html.LabelFor(t => t.OrderDate)
+                </div>
+                <div class="input-field col s10">
+                    @Html.EditorFor(t => t.OrderDate, "{0:mm/dd/yyyy}")
+                    @Html.ValidationMessageFor(p => p.OrderDate, "")
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s2">
+                    @Html.LabelFor(model => model.ImageUrl)
+                </div>
+                <img src="~/Images/no.png" height="80" width="75" class="change_edit" />
+                <input type="file" name="ImageFile" class="changeImage" />
+                @Html.ValidationMessageFor(model => model.ImageUrl, "")
+
+            </div>
+            <div class="row">
+                <div class="input-field col s2">
+                    <input type="submit" value="Create" class="btn" />
+                </div>
+            </div>
+        </form>
+    </div>
+}
+<script src="~/Scripts/jquery-1.12.1.js"></script>
+<script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $("#OrderDate").datepicker({
+            changeMonth: true, changeYear: true,
+            yearRange: "-35:+1"
+        });
+    })
+    $(function () {
+        $('.changeImage').change(function () {
+            var input = this;
+            if (input.files) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $('.change_edit').attr('src', e.target.result);
+                }
+                reader.readAsDataURL(input.files[0]);
+            }
+
+        })
+    })
+</script>
+
+
+
